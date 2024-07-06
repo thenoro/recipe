@@ -1,3 +1,5 @@
+Let's begin!
+
 # Ingredients:
 1 whole chicken giblets removed
 ½ cup plain vinegar
@@ -14,3 +16,5 @@ Salt, ground black pepper, and cumin to taste
 ½ cucumber peeled and sliced
 ½ cup salad dressing of your choice
 5 tbsp Dipping sauces Mayonnaise, ketchup, mustard and ají chilli pepper dip to serve
+
+Enjoy my recipe!
