@@ -5,9 +5,9 @@
 
 ### Complement this recipe with a Inka Kola drink!
 
-Try these other Peruvian recipes.
+Try these other ***Peruvian*** recipes.
 <ul>
-    <li>Lomo Saltado</li>
-    <li>Causa Limena</li>
-    <li>Ceviche</li>
+    <li>Lomo Saltado - _Sirloin stirfry_ </li>
+    <li>Causa Limena - _Peruvian Yellow Mashed Potato filled with chicken_</li>
+    <li>Ceviche - _Raw fish marinated in lime juice_</li>
 </ul>
