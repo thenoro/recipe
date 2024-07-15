@@ -11,3 +11,5 @@ Try these other ***Peruvian*** recipes.
     <li>Causa Limena - _Peruvian Yellow Mashed Potato filled with chicken_</li>
     <li>Ceviche - _Raw fish marinated in lime juice_</li>
 </ul>
+
+![Pollo a la brasa](recipe.jpg "It's Delicious")
